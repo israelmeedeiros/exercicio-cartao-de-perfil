@@ -10,14 +10,14 @@
 
 <aside>
 
-💡 **Dicas**: 
+ 💡 **Dicas**: 
 - Caso tenha dificuldades de iniciar o projeto, é recomendado que assista ao **módulo de reforço de CSS**. Nele é realizado um projeto do frontend mentor. 
 
 - É essencial começar pensando no objetivo do que precisa ser feito e no passo a passo pra chegar lá.
 
 - O resultado final não precisa ser 100% igual.
 
-NÃO SAIA TENTANDO ESCREVER CÓDIGOS DE QUALQUER MANEIRA! Antes disso você precisa saber O QUE precisa ser feito e só depois COMO fazer. 🧙‍♂️
+NÃO SAIA TENTANDO ESCREVER CÓDIGOS DE QUALQUER MANEIRA! Antes disso você precisa saber O QUE precisa ser feito e só depois COMO fazer. 🧙‍♂️ 
 
 </aside>
 
@@ -41,10 +41,13 @@ NÃO SAIA TENTANDO ESCREVER CÓDIGOS DE QUALQUER MANEIRA! Antes disso você prec
 
 ### **Layout esperado para desktop:**
 
-[<img src="resolucao-israel/design/desktop-design.png" alt="Design para computador">]
+<img src="resolucao-israel/design/desktop-design.png" alt="Design para computador">
 
 ---
 
 ### **Layout esperado para mobile:**
 
-[<img src="resolucao-israel/design/mobile-design.png" alt="Design para celular">]
+
+<div align="center">
+<img width= 217px src="resolucao-israel/design/mobile-design.png" alt="Design para celular">
+</div>
